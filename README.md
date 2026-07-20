@@ -1,4 +1,5 @@
 📂 Portfolio – [Vedant Gusain]
+
 👋 Introduction
 I am a tech‑savvy problem solver based in India, with strong skills across multiple domains: software development, physics/engineering, humanities, mathematics and logic and AI evaluation (RLHF). I enjoy tackling algorithmic challenges, analyzing complex systems, and providing clear, structured answers. My goal is to leverage these skills on Mercor to contribute to AI training and earn through expert evaluations.
 
