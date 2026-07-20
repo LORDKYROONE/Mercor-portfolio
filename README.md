@@ -4,7 +4,9 @@
 I am a tech‑savvy problem solver based in India, with strong skills across multiple domains: software development, physics/engineering, humanities, mathematics and logic and AI evaluation (RLHF). I enjoy tackling algorithmic challenges, analyzing complex systems, and providing clear, structured answers. My goal is to leverage these skills on Mercor to contribute to AI training and earn through expert evaluations.
 
 🧑‍🎓 Domain Samples
+
 1. RLHF (Reinforcement Learning from Human Feedback)
+
 Question: Classify responses about why the sky appears blue.
 
 Response A:  
@@ -48,8 +50,8 @@ Approach: Applied graph theory (topological sort), ensured cycle detection, and 
 4. Physics/Engineering
 
 Question: Beam mechanics problem with central point load.
-Answer:
 
+Answer:
 Reaction forces: 6 kN upward at each support
 
 Maximum bending moment: 18 kN·m
@@ -87,4 +89,5 @@ Humanities: Summarization, classification, structured reasoning
 Tools: GitHub, coding platforms, engineering formulas, evaluation frameworks.
 
 🏁 Closing
+
 This portfolio demonstrates my ability to solve problems across diverse domains, evaluate AI outputs with precision, and produce clear, correct final answers. I am confident in my versatility and ready to contribute as an expert evaluator and problem solver on Mercor.
